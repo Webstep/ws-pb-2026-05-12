@@ -1,9 +1,10 @@
 {
+	"black-formatter.interpreter": [],
+	"cSpell.words": ["crds", "libphonenumber", "OERE"],
 	"editor.defaultFormatter": "ms-python.black-formatter",
 	"editor.formatOnSave": true,
 	"python.analysis.typeCheckingMode": "basic",
+	"python.testing.pytestArgs": ["."],
 	"python.testing.pytestEnabled": true,
-	"python.testing.unittestEnabled": false,
-	"cSpell.words": ["crds"],
-	"python.testing.pytestArgs": ["."]
+	"python.testing.unittestEnabled": false
 }

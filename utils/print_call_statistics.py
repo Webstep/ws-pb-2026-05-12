@@ -35,7 +35,7 @@ def print_call_statistics(callRecords):
         )
 
         print(
-            "Total Duration of Calls to %s: %d"
+            "Total Duration of Calls to %s: %d seconds"
             % (topCaller, sumOfDurationInSecondsToTopCaller)
         )
 
